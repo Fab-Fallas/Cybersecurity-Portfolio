@@ -25,8 +25,8 @@ This lab environment simulates real-world attack scenarios using a segmented vir
 
 ### 📁 Labs
 
-- Lab 01 – Windows Failed Logon Detection
-- Lab 02 – SSH Brute Force Detection
+- [Lab 01 – Windows Failed Logon Detection](SOC-Lab/Lab-01-Windows-Failed-Logon)
+- [Lab 02 – SSH Brute Force Detection](SOC-Lab/Lab-02-SSH-Brute-Force)
 
 ---
 
