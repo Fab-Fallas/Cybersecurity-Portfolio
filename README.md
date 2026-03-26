@@ -9,7 +9,7 @@ This repository showcases hands-on cybersecurity labs focused on SOC (Security O
 - Log Analysis
 - SIEM (Wazuh)
 - MITRE ATT&CK Mapping
-- 
+  
 ## 🧠 Skills Demonstrated
 
 - Log analysis (Windows & Linux)
