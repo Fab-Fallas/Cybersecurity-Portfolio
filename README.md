@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Portfolio
 
-This repository contains hands-on cybersecurity labs focused on SOC (Security Operations Center) skills, including detection, analysis, and incident investigation using real tools such as Wazuh SIEM.
+This repository showcases hands-on cybersecurity labs focused on SOC (Security Operations Center) operations, including real-world attack simulation, detection, and analysis using Wazuh SIEM.
 
 ## 🔍 Focus Areas
 
