@@ -25,7 +25,7 @@ Due to compatibility limitations with Hydra and modern SMB implementations, **Cr
 
 Multiple authentication attempts were executed using a password wordlist against the user account `victim`.
 
-![image.png](attachment:8c61addf-057f-48ba-a87d-8320287f1e0c:image.png)
+![CrackMapExec](../images/lab03-SMB-CrackMapExec-attack-simulation.png)
 
 <aside>
 
@@ -37,7 +37,7 @@ CrackMapExec was used instead of Hydra due to better compatibility with modern S
 
 Wazuh successfully detected multiple failed authentication attempts from the Windows Security Event Log.
 
-![image.png](attachment:da6c8074-06aa-431a-82a3-dbfebd857227:image.png)
+![Captured Logs](../images/lab03-SMB-logs-capturing.png)
 
 ## Observed Alert Details
 
@@ -47,7 +47,7 @@ Wazuh successfully detected multiple failed authentication attempts from the Win
 - **Description:** Logon failure – Unknown user or bad password
 - **Level:** 5
 
-![image.png](attachment:50df0d2d-4ecb-47e7-8fd5-471da8d42955:image.png)
+![Alert Analysis](../images/lab03-SMB-alert-analysis.png)
 
 ## Analysis
 
