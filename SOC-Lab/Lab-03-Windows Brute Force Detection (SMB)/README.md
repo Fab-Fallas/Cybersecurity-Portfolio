@@ -37,7 +37,7 @@ CrackMapExec was used instead of Hydra due to better compatibility with modern S
 
 Wazuh successfully detected multiple failed authentication attempts from the Windows Security Event Log.
 
-![Captured Logs](../images/lab03-SMB-logs-capturing.png)
+![Captured Logs](../images/lab03-SMB-logs-capturing.png) 
 
 ## Observed Alert Details
 
@@ -47,7 +47,7 @@ Wazuh successfully detected multiple failed authentication attempts from the Win
 - **Description:** Logon failure – Unknown user or bad password
 - **Level:** 5
 
-![Alert Analysis](../images/lab03-SMB-alert-analysis.png)
+![Captured Logs](../images/lab03-SMB-captured-logs.webp) 
 
 ## Analysis
 
