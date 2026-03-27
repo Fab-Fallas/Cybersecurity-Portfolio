@@ -29,6 +29,8 @@ Multiple failed logon attempts were manually generated on the Windows endpoint b
 
 Wazuh successfully detected multiple authentication failure events from the Windows Security Event Log.
 
+![LogOn Failure](../images/logon-failure.png)
+
 **Observed alert details:**
 
 - **Agent:** windows-victim
