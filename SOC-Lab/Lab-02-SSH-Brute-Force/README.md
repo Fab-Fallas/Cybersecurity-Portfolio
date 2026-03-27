@@ -29,8 +29,7 @@ Command used:
 ```bash
 hydra -l testuser -P passwords.txt ssh://192.168.56.20 
 ```
-
-![image.png](attachment:44ca5a5c-f36f-409f-b692-88b2450e0b10:image.png)
+![Hydra Attack](../images/lab02-hydra-brute-force-attack.png)
 
 A controlled password list was used to generate multiple authentication attempts.
 
@@ -46,7 +45,7 @@ Wazuh successfully detected multiple SSH authentication failures.
 - **Level:** 5
 - **Log Source:** `/var/log/auth.log`
 
-![image.png](attachment:7034f9e3-5b09-4807-ae35-d9a615767fcf:image.png)
+![Ubuntu Agent](../images/lab02-ubuntu-agent-logs-revision.png)
 
 ## Analysis
 
@@ -62,7 +61,7 @@ The detected events correspond to repeated failed SSH authentication attempts ca
 
 ### Log Evidence
 
-![image.png](attachment:117de080-dce0-4fb4-9634-b577140b8720:image.png)
+![Wazuh Alerts](../images/lab02-wazuh-alerts.png)
 
 ### Interpretation
 
@@ -73,7 +72,7 @@ This behavior is consistent with:
 - Password guessing
 - Brute-force attack attempts
 
-![image.png](attachment:e6cf3a23-4325-41ee-a405-59630b513870:image.png)
+![SSH Analysis](../images/lab02-sshd-log-analysis.png)
 
 ## MITRE ATT&CK Mapping
 
