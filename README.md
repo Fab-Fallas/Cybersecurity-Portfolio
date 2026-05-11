@@ -21,7 +21,7 @@ This repository showcases hands-on cybersecurity labs focused on SOC (Security O
 
 # ⭐ Featured SOC Projects
 
-## [00 - Automated Threat Detection & Response Lab](SOC-Lab/00-Featured-Lab-Automated-Detection-Response)
+## [Automated Threat Detection & Response Lab](SOC-Lab/00-Featured-Lab-Automated-Detection-Response)
 
 SOC-focused cybersecurity lab simulating SSH brute-force attacks with real-time threat detection, alert correlation, and automated attacker blocking using Wazuh Active Response.
 
@@ -29,7 +29,7 @@ SOC-focused cybersecurity lab simulating SSH brute-force attacks with real-time 
 
 ---
 
-## [01 - Threat Detection & Network Analysis Lab](SOC-Lab/01-Featured-Lab-Threat-Detection-Network-Analysis)
+## [Threat Detection & Network Analysis Lab](SOC-Lab/01-Featured-Lab-Threat-Detection-Network-Analysis)
 
 Enterprise-style threat detection lab integrating Suricata IDS, Wireshark packet analysis, and Wazuh SIEM to investigate suspicious traffic, network scans, and malicious activity across monitored systems.
 
@@ -37,7 +37,7 @@ Enterprise-style threat detection lab integrating Suricata IDS, Wireshark packet
 
 ---
 
-## 🧪 SOC Detection Labs
+## 🔎 SOC Investigation Labs
 
 This lab environment simulates real-world attack scenarios using a segmented virtual network and monitored endpoints.
 
