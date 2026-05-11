@@ -31,7 +31,7 @@ SOC-focused cybersecurity lab simulating SSH brute-force attacks with real-time 
 
 ---
 
-## [Threat Detection & Network Analysis Lab](SOC-Lab/01-Featured-Lab-Threat-Detection-Network-Analysis)
+## [Threat Detection & Network Analysis Lab](SOC-Lab/00-Featured-Lab-Threat-Detection-Network-Analysis)
 
 Enterprise-style threat detection lab integrating Suricata IDS, Wireshark packet analysis, and Wazuh SIEM to investigate suspicious traffic, network scans, and malicious activity across monitored systems.
 
