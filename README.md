@@ -28,7 +28,7 @@ This lab environment simulates real-world attack scenarios using a segmented vir
 - [Lab 01 – Windows Failed Logon Detection](SOC-Lab/Lab-01-Windows-Failed-Logon)
 - [Lab 02 – SSH Brute Force Detection](SOC-Lab/Lab-02-SSH-Brute-Force)
 - [Lab 03 – Windows Brute Force Detection (SMB)](SOC-Lab/Lab-03-Windows-Brute-Force)
-- [Lab 04 – Compromised Account Investigation False Positive Analysis](SOC-Lab/Lab-04-Compromised-Account-Ivestigation)
+- [Lab 04 – Compromised Account Investigation False Positive Analysis](SOC-Lab/Lab-04-Compromised-Account-Investigation)
 - [Lab 05 – Network Scan Detection - Nmap](SOC-Lab/Lab-05-Network-Scan-Detection-(Nmap))
 
 ---
