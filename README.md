@@ -21,7 +21,7 @@ This repository showcases hands-on cybersecurity labs focused on SOC (Security O
 
 # ⭐ Featured SOC Projects
 
-## [Automated Threat Detection & Response Lab](SOC-Lab/00-Featured-Lab-Automated-Detection-Response)
+## [Automated Threat Detection & Response Lab](SOC-Lab/00-Featured-Lab-Threat-Detection-Network-Analysis)
 
 SOC-focused cybersecurity lab simulating SSH brute-force attacks with real-time threat detection, alert correlation, and automated attacker blocking using Wazuh Active Response.
 
