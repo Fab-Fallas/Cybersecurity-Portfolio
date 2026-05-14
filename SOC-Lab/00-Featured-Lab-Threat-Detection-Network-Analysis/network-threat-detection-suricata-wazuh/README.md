@@ -9,13 +9,13 @@ Detect network reconnaissance activity using Suricata IDS and visualize the aler
 
 ```bash
 nmap -sS -sV -O -T4 --top-ports 300 192.168.56.20
-
-Detection
+```
+### Detection
 
 Suricata: Detected as decoder events + custom local rules
 Wazuh Rule: Suricata integration (events ingested via eve.json)
 Severity: 3 (decoder level) - Expected in current tuning phase
-```
+
 
 ### Evidence
 
