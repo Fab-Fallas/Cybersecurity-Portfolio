@@ -41,7 +41,7 @@ Deploy a functional IDS sensor (Suricata) integrated with a SIEM platform (Wazuh
 - Troubleshooting (agent queue, firewall, rule loading)
 
 ---
-# Scenario 01 - Network Reconnaissance Detection (Nmap)
+# Scenario 01 - Network Reconnaissance Detection
 
 **MITRE ATT&CK:** T1595.001 - Active Scanning
 
@@ -49,5 +49,5 @@ Deploy a functional IDS sensor (Suricata) integrated with a SIEM platform (Wazuh
 Detect network reconnaissance activity using Suricata IDS and visualize the alerts in Wazuh SIEM.
 
 ### Attack Commands (Kali Linux)
-```bash
+
 nmap -sS -sV -O -T4 --top-ports 300 192.168.56.20
