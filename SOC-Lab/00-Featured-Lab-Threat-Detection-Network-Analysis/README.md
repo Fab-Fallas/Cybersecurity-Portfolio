@@ -1,8 +1,6 @@
 # Network Threat Detection & Investigation Lab  
 **Suricata IDS + Wazuh SIEM + Wireshark**
 
-![Lab Architecture](../architecture/lab-architecture.png)
-
 **Status:** Completed  
 **Level:** Junior SOC Analyst / SIEM Engineer  
 **Date:** May 2026
