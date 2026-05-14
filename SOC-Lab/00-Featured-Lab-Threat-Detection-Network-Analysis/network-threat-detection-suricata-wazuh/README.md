@@ -41,10 +41,6 @@ Deploy a functional IDS sensor (Suricata) integrated with a SIEM platform (Wazuh
 - Troubleshooting (agent queue, firewall, rule loading)
 
 ---
-
-### 2. README del Escenario 01 (crea la carpeta `scenarios/01-reconnaissance-nmap/README.md`)
-
-```markdown
 # Scenario 01 - Network Reconnaissance Detection (Nmap)
 
 **MITRE ATT&CK:** T1595.001 - Active Scanning
