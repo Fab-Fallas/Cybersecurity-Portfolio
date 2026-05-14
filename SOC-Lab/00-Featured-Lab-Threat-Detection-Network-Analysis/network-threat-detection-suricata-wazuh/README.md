@@ -17,7 +17,7 @@ Wazuh Rule: Suricata integration (events ingested via eve.json)
 Severity: 3 (decoder level) - Expected in current tuning phase
 ```
 
-Evidence
+### Evidence
 
 Suricata fast.log
 
