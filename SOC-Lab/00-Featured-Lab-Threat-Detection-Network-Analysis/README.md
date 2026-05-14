@@ -32,7 +32,7 @@ Deploy a functional IDS sensor (Suricata) integrated with a SIEM platform (Wazuh
 
 ### Implemented Scenarios
 - **Scenario 01** → Network Reconnaissance Detection (Nmap)
-- **Scenario 02** → SSH Brute Force Simulation (in progress)
+- **Scenario 02** → Deep Packet Analysis of Network Reconnaissance and Brute Force using Wireshark + Suricata + Wazuh (in progress)
 
 ### Skills Demonstrated
 - IDS sensor deployment and configuration
