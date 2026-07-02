@@ -59,11 +59,7 @@ Severity: 3 (decoder level) - Expected in current tuning phase
 
 ### Evidence
 
-Suricata fast.log
 
-Wazuh Dashboard - Security Alerts
-
-Eve.json example
 
 Analysis
 
